@@ -1,13 +1,12 @@
-## Welcome to GitHub Pages
+## Augmented Reality Manipulable Visualizations App for Physics Concepts
 
-You can use the [editor on GitHub](https://github.com/mmccolga/ARMVs/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Our App will be available soon on the Apple and Android Stores
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+This is a is an App that uses a Merge Cube (can be purchased or can be downloaded and printed on cardstock and assembled). 
 
-### Markdown
+### AR Models
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
+AR Models are overlaid onto a physical object
 ```markdown
 Syntax highlighted code block
 
