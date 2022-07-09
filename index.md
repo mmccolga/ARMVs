@@ -1,4 +1,4 @@
-## Augmented Reality Manipulable Visualizations App for Physics Concepts
+## Augmented Reality and Physics
 
 Our App will be available soon on the Apple and Android Stores
 
